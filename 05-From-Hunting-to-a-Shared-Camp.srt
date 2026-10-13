@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:03,000
+From hunting to a shared camp
+Three teams hunt in separate grounds and share one camp.
+
+2
+00:00:03,000 --> 00:00:22,000
+Three teams hunt
+Fast-moving stags need cooperation. Hares can be caught alone.
+
+3
+00:00:22,000 --> 00:00:32,000
+Dividing the harvest
+Hunters divide their food between themselves, their team and the shared camp.
+
+4
+00:00:32,000 --> 00:00:35,000
+The camp feeds everyone
+Shared food supports the whole society. Some food remains in storage.
+
+5
+00:00:35,000 --> 00:00:39,000
+An ecological shock
+Stored food is lost. The camp now has less than it needs for the next meal.
+
+6
+00:00:39,000 --> 00:00:47,000
+The next hunt
+The teams hunt again. Their new harvest creates a new contribution decision.
+
+7
+00:00:47,000 --> 00:00:56,000
+Giving more to the camp
+In this scripted example, every team sends more of its next harvest to the camp.
+
+8
+00:00:56,000 --> 00:01:00,000
+Recovery through contribution
+The camp can feed everyone again and rebuild its reserve.

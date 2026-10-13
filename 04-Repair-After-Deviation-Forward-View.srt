@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:03,000
+A shared opportunity
+A stag requires two hunters. A hare can be caught alone.
+
+2
+00:00:03,000 --> 00:00:06,000
+Approaching together
+The prey respond to the hunters using the game’s escape rules.
+
+3
+00:00:06,000 --> 00:00:09,000
+Making contact
+The hunters look toward one another before signaling.
+
+4
+00:00:09,000 --> 00:00:12,000
+Pointing toward the stag
+The stag continues moving; a signal is a cue, not a frozen target.
+
+5
+00:00:12,000 --> 00:00:15,000
+A visible response
+The hunters signal a shared pursuit.
+
+6
+00:00:15,000 --> 00:00:18,000
+A moving temptation
+A solo reward draws B’s attention away from the joint pursuit.
+
+7
+00:00:18,000 --> 00:00:21,000
+A partner deviates
+B moves closer to the hare and farther from the stag.
+
+8
+00:00:21,000 --> 00:00:24,000
+Looking back
+B must see the partner before a body gesture can be received.
+
+9
+00:00:24,000 --> 00:00:27,000
+A protest
+An emotional signal accompanies the interrupted cooperation.
+
+10
+00:00:27,000 --> 00:00:30,000
+Renewing the signal
+In this scripted example, B resumes cooperation after the signals.
+
+11
+00:00:30,000 --> 00:00:40,400
+Pursuing moving prey
+The hunters adjust their positions as the stag escapes.
+
+12
+00:00:40,400 --> 00:00:47,000
+A shared catch
+They capture the stag together. The hare remains uncaught.
